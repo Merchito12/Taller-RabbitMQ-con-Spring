@@ -1,3 +1,2 @@
 # Taller-RabbitMQ-con-Spring
-![mensajes](images/mensajes
-)
+![mensajes](images/mensajes.png)
